@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="title_activity_main">Login</string>
+    <string name="title_activity_service_order">Service Order</string>
+    <string name="title_activity_service_order_list">List of Service Orders</string>
+
+    <string name="msg_mandatory">Mandatory field.</string>
+    <string name="msg_invalid_date">Invalid date.</string>
+    <string name="msg_invalid_time">Invalid time.</string>
+    <string name="msg_invalid_value">Invalid value.</string>
+
+    <string name="lbl_user">User</string>
+    <string name="lbl_pass">Password</string>
+    <string name="lbl_btn_login">Sign In</string>
+    <string name="lbl_service_orders">Service Orders</string>
+    <string name="lbl_add">Add</string>
+    <string name="lbl_client_name">Client Name</string>
+    <string name="lbl_address">Address</string>
+    <string name="lbl_date">Date</string>
+    <string name="lbl_value">Value</string>
+    <string name="lbl_paid">Paid?</string>
+    <string name="lbl_description">Description</string>
+    <string name="lbl_save">Save</string>
+    <string name="lbl_time">Time</string>
+    <string name="lbl_yes">Yes</string>
+    <string name="lbl_no">No</string>
+    <string name="lbl_edit">Edit</string>
+    <string name="lbl_add_sucess">Add Sucess!</string>
+    <string name="lbl_edit_sucess">Edit Sucess!</string>
+    <string name="lbl_options">options</string>
+    <string name="lbl_delete">delete</string>
+    <string name="lbl_call">call</string>
+    <string name="lbl_client_phone">Phone Number</string>
+    <string name="lbl_confirm">Confirm Active ?</string>
+    <string name="msg_delete">Remove ?</string>
+    <string name="msg_delete_success">Delete Succes</string>
+    <string name="lbl_share">lbl_share</string>
+    <string name="msg_user_error">Error: User or Password</string>
+    <string name="lbl_active">Active</string>
+    <string name="msg_active_success">Active Sucess</string>
+    <string name="lbl_inative">Inative</string>
+    <string name="msg_active">Active</string>
+    <string name="msg_inative">Inative</string>
+    <string name="msg_inative_success">Inative sucess</string>
+    <string name="lbl_confirm_inative">Confirm Inative</string>
+
+</resources>
