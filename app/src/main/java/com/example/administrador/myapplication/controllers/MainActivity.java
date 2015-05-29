@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         final EditText txtPass = AppUtil.get(findViewById(R.id.editTextPass));
 
         final Button btnLogin = (Button) findViewById(R.id.buttonLogin);
+        
         btnLogin.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
